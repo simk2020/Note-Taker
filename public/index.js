@@ -1,21 +1,3 @@
-
-// var express = require("express");
-// var fs = require (fs);
-
-// var note = require ("/notes");
-// // var * = require ("index.html");
-
-// var app = express();
-// var PORT = process.env.PORT || 8080;
-
-// app.use(express.urlencoded({ extended: true }));
-// app.use(express.json());
-
-
-// require("/notes.html")(app);
-// require("./index.html")(app);
-
-
 const $noteTitle = $(".note-title");
 const $noteText = $(".note-textarea");
 const $saveNoteBtn = $(".save-note");
